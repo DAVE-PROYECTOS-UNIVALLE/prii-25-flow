@@ -22,3 +22,7 @@ li{
     list-style: none;
     color: white;
 }
+li:hover{
+    color: #ff3d00;
+    cursor: pointer;
+}
