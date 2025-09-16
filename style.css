@@ -26,3 +26,9 @@ li:hover{
     color: #ff3d00;
     cursor: pointer;
 }
+section{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
